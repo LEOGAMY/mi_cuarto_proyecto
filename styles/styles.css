@@ -1,0 +1,5 @@
+.encabezado{ color: forestgreen;font-family: 'Caesar Dressing', cursive; text-align: center; background-color: blue;}
+body{background-color: rgba(0, 0, 0, 0.856);}
+th{color: aliceblue;}
+tr{color: antiquewhite;}
+table{display: flex; justify-content: center;}
